@@ -14,6 +14,7 @@ Jest to projekt pokazowy przygotowany do portfolio, demonstrujący umiejętnośc
 - **Język:** T-SQL (Transact-SQL)
 
 ## 🏗 Struktura Bazy Danych
+![Diagram bazy danych](shop_database_diagram.png)
 Baza danych `shop_DB` składa się z czterech kluczowych tabel z zachowaniem relacji:
 1. **Users**: Rejestr użytkowników systemu.
 2. **Products**: Katalog produktów wraz z cenami jednostkowymi.
