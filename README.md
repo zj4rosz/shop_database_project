@@ -1,6 +1,7 @@
 # Projekt: Relacyjna Baza Danych Sklepu Internetowego
 
 ## 📝 Opis projektu
+[Zobacz skrypt bazy danych SQL](shop_database_script.sql)
 Projekt przedstawia kompletną strukturę bazy danych dla systemu e-commerce, stworzoną w standardzie T-SQL (MS SQL Server). Głównym celem było zaprojektowanie wydajnej, znormalizowanej bazy danych, która obsługuje procesy sprzedażowe, od zarządzania użytkownikami po analizę wydatków.
 
 Jest to projekt pokazowy przygotowany do portfolio, demonstrujący umiejętności z zakresu:
